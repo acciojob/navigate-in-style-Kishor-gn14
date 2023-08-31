@@ -10,6 +10,8 @@
 }
 ul{
     display: flex;
-    margin-right: 16px;
     justify-content: space-around;
+}
+li{
+    margin-right: 16px;
 }
